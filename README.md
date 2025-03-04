@@ -6,13 +6,15 @@
 
 ## 📝 About VolleyRotationsApp
 
-VolleyRotationsApp is an interactive and free web application developed using R Studio and Shiny that helps volleyball coatches , etc.) and offers the following features:
+VolleyRotationsApp is a free and interactive web application developed with R Studio and Shiny. It helps volleyball coaches visualize and plan team rotations with ease. With this app, you can create formations for two teams and see how they match up across all six rotations. It offers the following features:
 
-- **📥 Load players**: Load player data from pre-created XLSX, XLS, or CSV files.
-- **➕ Add players**: Add new players with complete information, including ID number, first and last name, sport, team, age category, and position.
-- **✏️ Modify players**: Modify recorded information to keep player lists up-to-date and accurate.
-- **❌ Delete players**: Remove players from the list who are not attending a specific training session or match.
-- **🎲 Randomize groups**: Generate random training or competition groups with customizable filters by sport, team, age category, and position.
+- **➕ Add/Modify Players Button:** Easily update court diagrams after entering player information. You can assign a number (1-99) and a name (recommended max: 10 characters, including spaces) for proper display. Team A is shown in blue, Team B in red for clear distinction.
+
+- **❌ Delete Players Button:** Instantly remove all player data and reset the court diagrams to a blank state.
+
+- **🔄 Rotation Buttons:** Adjust team rotations using the 'Rotate +1 position (clockwise)' and 'Rotate -1 position (counterclockwise)' buttons. To rotate multiple positions at once, use the 'Multiple rotation options' button.
+
+- **📊 Rotations View:** Displays all six possible rotations simultaneously for both teams, allowing you to analyze player matchups. The diagrams illustrate each team's basic positions at the start of a point, before any positional adjustments or switches following the referee’s whistle.
 
 ## 💡 Future features and ideas for VolleyRotationsApp
 
