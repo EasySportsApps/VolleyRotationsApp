@@ -14,7 +14,7 @@ VolleyRotationsApp is a free and interactive web application developed with RStu
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/refresh.png"/> Rotation Buttons:** Adjust team rotations using the 'Rotate +1 position (clockwise)' and 'Rotate -1 position (counterclockwise)' buttons. To rotate multiple positions at once, use the 'Multiple rotation options' button.
 
-- **<img src="https://img.icons8.com/ios-filled/24/000000/network.png"/> Rotations View:** Displays all six possible rotations simultaneously for both teams, allowing you to analyze player matchups. The diagrams illustrate each team's basic positions at the start of a point, before any positional adjustments or switches following the referee’s whistle.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/volleyball-court.png"/> Rotations View:** Displays all six possible rotations simultaneously for both teams, allowing you to analyze player matchups. The diagrams illustrate each team's basic positions at the start of a point, before any positional adjustments or switches following the referee’s whistle.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/idea.png"/> Future features and ideas for VolleyRotationsApp
 
@@ -24,9 +24,9 @@ In future versions, we are considering adding the following features:
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/refresh.png"/> Enhanced Rotations View:** Improve the Rotations View by displaying player positions in reception (Complex I) or defense (Complex II), considering the team that started the serve in the set. This will provide a more realistic and detailed view of player positioning and interactions on the court.  
 
-If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyRotationsApp/discussions) section <img src="https://img.icons8.com/ios-filled/24/000000/comments.png"/> of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com) <img src="https://img.icons8.com/ios-filled/24/000000/email.png"/>.  
+If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyRotationsApp/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
-We greatly appreciate contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN). Thank you! <img src="https://img.icons8.com/ios-filled/24/000000/praying-hands.png"/>
+We greatly appreciate contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN). Thank you!
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About EasySportsApps project
 
