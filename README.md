@@ -22,7 +22,7 @@ In future versions, we are considering adding the following features:
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/print.png"/> Print button:** Add a button in the Rotations View to easily print each team's rotations and matchups.  
 
-- **<img src="https://img.icons8.com/ios-filled/24/000000/refresh.png"/> Enhanced rotations view:** Improve the Rotations View by displaying player positions in reception (Complex I) or defense (Complex II), considering the team that started the serve in the set. This will provide a more realistic and detailed view of player positioning and interactions on the court.  
+- **<img src="https://img.icons8.com/ios-filled/24/000000/volleyball.png"/> Enhanced rotations view:** Improve the Rotations View by displaying player positions in reception (Complex I) or defense (Complex II), considering the team that started the serve in the set. This will provide a more realistic and detailed view of player positioning and interactions on the court.  
 
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyRotationsApp/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
