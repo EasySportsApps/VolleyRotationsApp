@@ -14,7 +14,7 @@ VolleyRotationsApp is a free and interactive web application developed with RStu
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/refresh.png"/> Rotation Buttons:** Adjust team rotations using the 'Rotate +1 position (clockwise)' and 'Rotate -1 position (counterclockwise)' buttons. To rotate multiple positions at once, use the 'Multiple rotation options' button.
 
-- **<img src="https://img.icons8.com/ios-filled/24/000000/volleyball-court.png"/> Rotations View:** Displays all six possible rotations simultaneously for both teams, allowing you to analyze player matchups. The diagrams illustrate each team's basic positions at the start of a point, before any positional adjustments or switches following the referee’s whistle.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/volleyball-player.png"/> Rotations View:** Displays all six possible rotations simultaneously for both teams, allowing you to analyze player matchups. The diagrams illustrate each team's basic positions at the start of a point, before any positional adjustments or switches following the referee’s whistle.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/idea.png"/> Future features and ideas for VolleyRotationsApp
 
