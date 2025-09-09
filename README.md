@@ -4,9 +4,6 @@
 
 [VolleyRotationsApp v1.0](https://easysportsapps.shinyapps.io/volleyrotationsapp/)
 
-<a href="https://easysportsapps.shinyapps.io/volleyrotationsapp/" target="_blank">VolleyRotationsApp v1.0</a>
-
-
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyRotationsApp
 
 VolleyRotationsApp is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. It helps volleyball coaches visualize and plan team rotations with ease. With this app, you can create formations for two teams and see how they match up across all six rotations. Key features include:
