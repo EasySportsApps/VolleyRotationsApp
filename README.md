@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyRotationsApp
 
-VolleyRotationsApp is a free and interactive web application developed with RStudio and Shiny. It helps volleyball coaches visualize and plan team rotations with ease. With this app, you can create formations for two teams and see how they match up across all six rotations. Key features include:
+VolleyRotationsApp is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. It helps volleyball coaches visualize and plan team rotations with ease. With this app, you can create formations for two teams and see how they match up across all six rotations. Key features include:
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/add-user-male.png"/> Add/modify players button:** Easily update court diagrams after entering player information. You can assign a number (1-99) and a name (recommended max: 10 characters, including spaces) for proper display. Team A is shown in blue, Team B in red for clear distinction.
 
@@ -27,10 +27,6 @@ In future versions, we are considering adding the following features:
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyRotationsApp/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
 We greatly appreciate contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN). Thank you!
-
-## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About EasySportsApps project
-
-VolleyRotationsApp is part of the [EasySportsApps](https://github.com/EasySportsApps) project, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in health, physical activity and sports health.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/copyright.png"/> VolleyRotationsApp license
 
