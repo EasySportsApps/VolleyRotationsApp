@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/youtube--v1.png"/> How to use VolleyRotationsApp in 1 minute
 
-[![How to use VolleyRotationsApp in 1 minute | EasySportsApps](https://img.youtube.com/vi/KfJwgPBbjX0/hqdefault.jpg)](https://www.youtube.com/watch?v=4f2Tfrb4rVo)
+[![How to use VolleyRotationsApp in 1 minute | EasySportsApps](https://img.youtube.com/vi/KfJwgPBbjX0/hqdefault.jpg)](https://www.youtube.com/watch?v=uNXwqu9BfPA)
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyRotationsApp
 
